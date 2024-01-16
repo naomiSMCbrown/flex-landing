@@ -1,0 +1,5 @@
+.empty-box{
+     width: 200px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
+    border: 1px solid #000; /* Optional border, you can remove this if not needed */
+}
