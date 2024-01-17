@@ -177,3 +177,12 @@ h1{
     font-size: 15px;
     font-weight: 100;
 }
+
+.footer{
+    height: 50px;
+    background-color: #6c7178;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;\;
+}
